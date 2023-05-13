@@ -47,7 +47,7 @@ I'm a senior front-end developer with 7 years of experience building beautiful a
 
 ## Experience
 
-### [RoboSoft](https://www.robosoftin.com)
+### [RoboSoft Technologies](https://www.robosoftin.com)
 
 #### Specialist Software Engineer (2019 - Present)
 
