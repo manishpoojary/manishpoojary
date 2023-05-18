@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Manish Poojary 👋
+# Hey there, I'm Manish Poojary 👋
 
-I'm a senior front-end developer with 7 years of experience building beautiful and responsive web applications. I specialize in Angular and Vue, and I'm passionate about writing clean, efficient, and well-documented code that delivers a great user experience.
+I'm an engineer at [RoboSoft Technologies](https://www.robosoftin.com), currently working for PayPay for Business.
 
 ## Skills
 
@@ -47,7 +47,7 @@ I'm a senior front-end developer with 7 years of experience building beautiful a
 
 ## Experience
 
-### [RoboSoft Technologies](https://www.robosoftin.com)
+### 
 
 #### Specialist Software Engineer (2019 - Present)
 
