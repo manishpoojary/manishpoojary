@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 I'm an engineer at [Robosoft Technologies](https://www.robosoftin.com), currently working for PayPay for Business.
 
-## 💼 Contact 
+💼 Contact 
 
 If you'd like to get in touch with me, you can reach me at [LinkedIn](https://www.linkedin.com/in/manish-poojary) | [twitter](https://twitter.com/manisshpoojary) . I'm always open to collaborating on new projects and connecting with other developers.
