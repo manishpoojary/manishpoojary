@@ -20,4 +20,4 @@ I'm an engineer at [Robosoft Technologies](https://www.robosoftin.com), currentl
 
 💼 Contact 
 
-If you'd like to get in touch with me, you can reach me at [LinkedIn](https://www.linkedin.com/in/manish-poojary) | [twitter](https://twitter.com/manisshpoojary) . I'm always open to collaborating on new projects and connecting with other developers.
+If you'd like to get in touch with me, you can reach me at [LinkedIn](https://www.linkedin.com/in/manish-poojary) | [twitter](https://Twitter.com/manisshpoojary) . I'm always open to collaborating on new projects and connecting with other developers.
